@@ -1,0 +1,19 @@
+h1
+{
+    font-family: inherit;
+    text-align: center;
+     text-shadow: 1px 1px red;
+    
+}
+p
+{
+    font-family: cursive
+}
+ul
+{    
+ font-family: fantasy   
+}
+body 
+{
+    background-color: khaki;
+}
